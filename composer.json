@@ -1,0 +1,6 @@
+{
+    "require": {
+        "qcloud/cos-sdk-v5": "1.3.0",
+        "qcloud/vod-sdk-v5": "2.4.0"
+    }
+}

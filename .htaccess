@@ -1,0 +1,21 @@
+<IfModule mod_rewrite.c>
+  Options +FollowSymlinks -Multiviews
+  RewriteEngine On
+
+  RewriteRule ^.gitignore$ – [F]
+  RewriteRule ^composer.json$ – [F]
+  RewriteRule ^composer.lock$ – [F]
+  RewriteRule ^version.php$ – [F]
+  RewriteRule ^application/(.*).php$ – [F]
+  RewriteRule ^extend/(.*).php$ – [F]
+  RewriteRule ^update/(.*)$ – [F]
+  RewriteRule ^vendor/(.*)$ – [F]
+  RewriteRule ^thinkphp/(.*)$ – [F]
+  RewriteRule ^runtime/(.*)$ – [F]
+
+  RewriteRule ^$ index.html [L]
+
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteRule ^(.*)$ index.php?/$1 [QSA,PT,L]
+</IfModule>

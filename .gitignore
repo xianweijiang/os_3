@@ -1,0 +1,8 @@
+/.idea
+/runtime
+/application/database.php
+/public
+/public/install/install.lock
+.DS_Store
+/update/v1.9.0
+/application/config.php

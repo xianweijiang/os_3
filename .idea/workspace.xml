@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a82be22-0246-462e-9dd5-4e679afb6480" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/application/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/config.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/mtdowling/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/command" />
+      <path value="$PROJECT_DIR$/vendor/PHPExcel/PHPExcel" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle-services" />
+      <path value="$PROJECT_DIR$/vendor/jenssegers/date" />
+      <path value="$PROJECT_DIR$/vendor/topthink/think-captcha" />
+      <path value="$PROJECT_DIR$/vendor/xaboy/form-builder" />
+      <path value="$PROJECT_DIR$/vendor/topthink/framework" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/topthink/think-image" />
+      <path value="$PROJECT_DIR$/vendor/topthink/think-helper" />
+      <path value="$PROJECT_DIR$/vendor/guzzle/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/topthink/think-installer" />
+      <path value="$PROJECT_DIR$/vendor/pimple/pimple" />
+      <path value="$PROJECT_DIR$/vendor/symfony/contracts" />
+      <path value="$PROJECT_DIR$/vendor/tencentcloud/tencentcloud-sdk-php" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/qcloud/vod-sdk-v5" />
+      <path value="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge" />
+      <path value="$PROJECT_DIR$/vendor/qcloud/cos-sdk-v5" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/overtrue/wechat" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/overtrue/socialite" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/phpthumb/thumb_plugins" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1fzJgGaxkWVbkXWBbEKIRxjvN2L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="two.files.diff.last.used.file" value="$USER_HOME$/Downloads/update/extend/basic/ControllerBasic.php" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a82be22-0246-462e-9dd5-4e679afb6480" name="Default Changelist" comment="" />
+      <created>1597215096865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597215096865</updated>
+      <workItem from="1597215098389" duration="5209000" />
+      <workItem from="1597243201561" duration="978000" />
+      <workItem from="1597285372110" duration="16230000" />
+      <workItem from="1597544408299" duration="96228000" />
+      <workItem from="1598404472683" duration="10143000" />
+      <workItem from="1598490667489" duration="6102000" />
+      <workItem from="1598511564508" duration="3345000" />
+      <workItem from="1598577231078" duration="10818000" />
+      <workItem from="1598838260362" duration="19587000" />
+      <workItem from="1599141516802" duration="122000" />
+      <workItem from="1599441472352" duration="12154000" />
+      <workItem from="1600048992091" duration="36034000" />
+      <workItem from="1600391469161" duration="10921000" />
+      <workItem from="1600478237829" duration="6495000" />
+      <workItem from="1600652245872" duration="747000" />
+      <workItem from="1600659078810" duration="6000" />
+      <workItem from="1600827324708" duration="4378000" />
+      <workItem from="1600877324382" duration="19000" />
+      <workItem from="1600913059955" duration="3033000" />
+      <workItem from="1600997296990" duration="4842000" />
+      <workItem from="1601171805538" duration="6165000" />
+      <workItem from="1601272547132" duration="2054000" />
+      <workItem from="1601344526025" duration="2991000" />
+      <workItem from="1603160421480" duration="8908000" />
+      <workItem from="1603785290164" duration="4021000" />
+      <workItem from="1603941345022" duration="927000" />
+      <workItem from="1603960558898" duration="469000" />
+      <workItem from="1604021284414" duration="2101000" />
+      <workItem from="1604473770377" duration="770000" />
+      <workItem from="1604548600259" duration="29000" />
+      <workItem from="1605151715139" duration="592000" />
+      <workItem from="1605169406924" duration="393000" />
+      <workItem from="1607909572009" duration="2133000" />
+      <workItem from="1608366735340" duration="2132000" />
+      <workItem from="1608603343022" duration="13341000" />
+      <workItem from="1608689846834" duration="1805000" />
+      <workItem from="1608823521612" duration="380000" />
+      <workItem from="1608860942346" duration="9454000" />
+      <workItem from="1609118434263" duration="4104000" />
+      <workItem from="1609206102267" duration="12188000" />
+      <workItem from="1609291479754" duration="4096000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="125" width="2360" height="1144" key="DiffContextDialog" timestamp="1609298142258">
+      <screen x="0" y="25" width="2560" height="1344" />
+    </state>
+    <state x="100" y="125" width="2360" height="1144" key="DiffContextDialog/0.25.2560.1344/-1680.269.1680.1025@0.25.2560.1344" timestamp="1609298142258" />
+    <state x="741" y="210" width="1040" height="1108" key="find.popup" timestamp="1609298464882">
+      <screen x="0" y="25" width="2560" height="1344" />
+    </state>
+    <state x="740" y="210" width="1038" height="1121" key="find.popup/0.23.2560.1362/-1680.267.1680.1027@0.23.2560.1362" timestamp="1601347180675" />
+    <state x="486" y="156" width="682" height="786" key="find.popup/0.25.1680.954@0.25.1680.954" timestamp="1608368670396" />
+    <state x="741" y="210" width="1040" height="1108" key="find.popup/0.25.2560.1344/-1680.269.1680.1025@0.25.2560.1344" timestamp="1609298464882" />
+    <state x="740" y="211" width="1038" height="1114" key="find.popup/0.25.2560.1353/-1680.269.1680.1025@0.25.2560.1353" timestamp="1605169490109" />
+  </component>
+</project>

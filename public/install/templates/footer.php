@@ -1,0 +1,1 @@
+<div class="footer"> &copy; 2014-2020 <a href="http://www.thisky.com" target="_blank">www.thisky.com</a> 想天软件出品</div>

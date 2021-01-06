@@ -1,0 +1,5 @@
+---------------------------------------------------------------
+[ 2020-09-03T16:53:46+08:00 ] 127.0.0.1 GET yalian.com:8099/admin/index/index/is_submission/111
+[运行时间：0.047854s] [吞吐率：20.90req/s] [内存消耗：2,444.63kb] [文件加载：103]
+[ error ] [4]syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM)[/Applications/MxSrvs/www/yalian-git/osx/osx_admin/application/thumb.php:121]
+[ info ] [ LOG ] INIT File

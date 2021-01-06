@@ -1,0 +1,48 @@
+/* 主要消息 */
+body .toast-primary .layui-layer-content {
+    background-color: #3280fc;
+    text-align:center;
+    color: #fff;
+}
+
+/* 信息消息 */
+body .toast-info .layui-layer-content {
+    background-color: #03b8cf;
+    text-align:center;
+    color: #fff;
+}
+
+/* 错误消息 */
+body .toast-error .layui-layer-content {
+    background-color: #ea644a;
+    text-align:center;
+    color: #fff;
+}
+
+/* 成功消息 */
+body .toast-success .layui-layer-content {
+    background-color: #38b03f;
+    text-align:center;
+    color: #fff;
+}
+
+/* 警告消息 */
+body .toast-warning .layui-layer-content {
+    background-color: #f1a325;
+    text-align:center;
+    color: #fff;
+}
+
+/* 重要消息 */
+body .toast-important .layui-layer-content {
+    background-color: #bd7b46;
+    text-align:center;
+    color: #fff;
+}
+
+/* 特别消息 */
+body .toast-special .layui-layer-content {
+    background-color: #8666b8;
+    text-align:center;
+    color: #fff;
+}

@@ -1,0 +1,134 @@
+
+.authorize-imgs{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+}
+.authorize-imgs .application-logo{
+    width: 334px;
+    height: 334px;
+}
+.authorize-imgs .mutual-arrow{
+    margin: -35px 60px 0 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.authorize-infos{
+    padding: 0 50px;
+}
+.authorize-infos .basic-title .title-num{
+    width: 23px;
+    height: 23px;
+    display: inline-block;
+    text-align: center;
+    line-height: 21px;
+    border: 1px solid #333;
+    border-radius: 50px;
+}
+.authorize-infos .infos-lists{
+    margin: 0;
+    padding: 10px 0;
+}
+.authorize-infos .infos-lists .each-info-list{
+    padding: 10px 0;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    list-style: none;
+}
+.infos-lists .each-info-list .list-title{
+    width: 100px;
+    text-align: right;
+}
+.infos-lists .each-info-list .list-content{
+    padding-left: 20px;
+}
+.infos-lists .each-info-list .show-key{
+    margin-left: 20px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    background-color: #169bd5;
+    outline: none;
+}
+.infos-lists .each-info-list .all-single-choose{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.each-info-list .all-single-choose .single-choose{
+    margin-right: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.each-info-list .all-single-choose .single-choose input{
+    margin: 0 10px 0 0;
+}
+.infos-lists .each-info-list .all-single-choose .buy-now{
+    padding: 0;
+    border: none;
+    outline: none;
+    color: #02a7f0;
+    font-weight: 600;
+    background: none;
+}
+.authorize-infos .package-lists{
+    margin: 0;
+    padding: 10px 50px;
+}
+.authorize-infos .package-lists .each-package-lists{
+    padding: 10px 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-bottom: 1px solid #666;
+}
+.package-lists .each-package-lists .options-title{
+    width: 100px;
+    font-weight: 600;
+}
+.package-lists .each-package-lists .each-option{
+    margin: 0 20px;
+}
+.package-lists .each-package-lists .each-option input{
+    margin-right: 10px;
+}
+.expansion-infos{
+    padding: 10px 50px;
+}
+.expansion-infos .expansion-lists{
+    margin: 0;
+    padding: 10px 0;
+}
+.expansion-infos .expansion-lists .each-expansion-lists{
+    padding: 10px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.expansion-lists .each-expansion-lists .expansion-title{
+    width: 60px;
+    text-align: right;
+}
+.expansion-lists .each-expansion-lists .expansion-option{
+    margin-left: 20px;
+    width: 110px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.expansion-lists .each-expansion-lists .expansion-option input{
+    margin-right: 10px;
+}

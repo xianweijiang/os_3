@@ -1,0 +1,5 @@
+---------------------------------------------------------------
+[ 2020-12-22T10:43:09+08:00 ] 127.0.0.1 GET yalian.com:8099/admin/login/captcha.html
+[运行时间：0.064680s] [吞吐率：15.46req/s] [内存消耗：2,942.21kb] [文件加载：103]
+[ error ] [4]syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM)[/Applications/MxSrvs/www/yalian-git/osx/osx_admin/application/thumb.php:121]
+[ info ] [ LOG ] INIT File

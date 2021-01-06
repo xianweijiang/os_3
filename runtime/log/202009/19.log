@@ -1,0 +1,18 @@
+---------------------------------------------------------------
+[ 2020-09-19T10:51:03+08:00 ] 127.0.0.1 GET yalian.com:8099/commonapi/Script/test
+[运行时间：0.047921s] [吞吐率：20.87req/s] [内存消耗：2,444.77kb] [文件加载：103]
+[ error ] [4]syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM)[/Applications/MxSrvs/www/yalian-git/osx/osx_admin/application/thumb.php:121]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-19T10:55:51+08:00 ] 127.0.0.1 GET yalian.com:8099/admin/index/
+[运行时间：0.049397s] [吞吐率：20.24req/s] [内存消耗：2,444.99kb] [文件加载：103]
+[ error ] [4]syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM)[/Applications/MxSrvs/www/yalian-git/osx/osx_admin/application/thumb.php:121]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-19T11:00:00+08:00 ] 127.0.0.1 GET yalian.com:8099/commonapi/Script/test
+[运行时间：0.040947s] [吞吐率：24.42req/s] [内存消耗：2,444.78kb] [文件加载：103]
+[ error ] [4]syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM)[/Applications/MxSrvs/www/yalian-git/osx/osx_admin/application/thumb.php:121]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-19T11:01:02+08:00 ] 127.0.0.1 GET yalian.com:8099/commonapi/Script/test
+[ error ] [1]Call to undefined function basic\get_domain()

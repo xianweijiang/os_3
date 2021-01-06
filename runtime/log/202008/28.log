@@ -1,0 +1,11 @@
+---------------------------------------------------------------
+[ 2020-08-28T16:05:34+08:00 ] 127.0.0.1 GET yalian.com:8099/admin/com.com_adv/adv_list/type/6.html?page=1&limit=20
+[ log ] array (
+  'status' => '',
+  'name' => '',
+  'type' => '6',
+  'order' => 'status desc,sort asc',
+  'page' => '1',
+  'limit' => '20',
+  'excel' => 0,
+)

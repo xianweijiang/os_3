@@ -1,0 +1,4 @@
+<?php
+//000000086400
+ exit();?>
+a:7:{i:0;a:7:{s:2:"id";i:60;s:4:"time";i:1597939200;s:5:"forum";i:0;s:7:"comment";i:0;s:7:"support";i:0;s:5:"share";i:0;s:6:"reward";i:0;}i:1;a:7:{s:2:"id";i:59;s:4:"time";i:1597852800;s:5:"forum";i:0;s:7:"comment";i:0;s:7:"support";i:0;s:5:"share";i:0;s:6:"reward";i:0;}i:2;a:7:{s:2:"id";i:58;s:4:"time";i:1597766400;s:5:"forum";i:0;s:7:"comment";i:0;s:7:"support";i:0;s:5:"share";i:0;s:6:"reward";i:0;}i:3;a:7:{s:2:"id";i:57;s:4:"time";i:1597334400;s:5:"forum";i:1;s:7:"comment";i:0;s:7:"support";i:0;s:5:"share";i:0;s:6:"reward";i:0;}i:4;a:7:{s:2:"id";i:56;s:4:"time";i:1597248000;s:5:"forum";i:1;s:7:"comment";i:1;s:7:"support";i:1;s:5:"share";i:0;s:6:"reward";i:0;}i:5;a:7:{s:2:"id";i:55;s:4:"time";i:1597161600;s:5:"forum";i:0;s:7:"comment";i:0;s:7:"support";i:1;s:5:"share";i:0;s:6:"reward";i:0;}i:6;a:7:{s:2:"id";i:54;s:4:"time";i:1597075200;s:5:"forum";i:0;s:7:"comment";i:0;s:7:"support";i:2;s:5:"share";i:0;s:6:"reward";i:0;}}

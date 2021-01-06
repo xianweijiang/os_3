@@ -1,0 +1,10 @@
+---------------------------------------------------------------
+[ 2020-12-28T15:01:39+08:00 ] 127.0.0.1 GET yalian.com:8099/admin/login/path/to/swiper.js
+[运行时间：0.078194s] [吞吐率：12.79req/s] [内存消耗：2,942.24kb] [文件加载：103]
+[ error ] [4]syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM)[/Applications/MxSrvs/www/yalian-git/osx/osx_admin/application/thumb.php:121]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-12-28T15:01:39+08:00 ] 127.0.0.1 GET yalian.com:8099/admin/login/path/to/dist/vue-awesome-swiper.js
+[运行时间：0.078178s] [吞吐率：12.79req/s] [内存消耗：2,942.45kb] [文件加载：103]
+[ error ] [4]syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM)[/Applications/MxSrvs/www/yalian-git/osx/osx_admin/application/thumb.php:121]
+[ info ] [ LOG ] INIT File

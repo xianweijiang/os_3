@@ -1,0 +1,293 @@
+---------------------------------------------------------------
+[ 2020-12-19T16:31:51+08:00 ] 127.0.0.1 GET yalian.com:8099/
+[运行时间：0.116213s] [吞吐率：8.60req/s] [内存消耗：2,942.03kb] [文件加载：103]
+[ error ] [4]syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM)[/Applications/MxSrvs/www/yalian-git/osx/osx_admin/application/thumb.php:121]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-12-19T17:03:31+08:00 ] 127.0.0.1 POST yalian.com:8099/admin/login/verify.html
+[运行时间：0.044469s] [吞吐率：22.49req/s] [内存消耗：4,736.59kb] [文件加载：127]
+[ info ] [ LANG ] /Applications/MxSrvs/www/yalian-git/osx/osx_admin/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'verify',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'stylesheet=; PHPSESSID=tivs35lj45pse3vli0ll9v64l0; admin_mojavi=4befnjtl6j3fatavu62645p670; thinkphp_show_page_trace=0|0',
+  'referer' => 'http://yalian.com:8099/admin/login/index.html',
+  'connection' => 'keep-alive',
+  'origin' => 'http://yalian.com:8099',
+  'content-length' => '77',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.16; rv:84.0) Gecko/20100101 Firefox/84.0',
+  'host' => 'yalian.com:8099',
+)
+[ info ] [ PARAM ] array (
+  'account' => '07pbuHoSCzvRmW1zDzC45Q==',
+  'pwd' => 'qOpQR94dAFNldtUAgamRLA==',
+  'verify' => '',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\Login->verify[ /Applications/MxSrvs/www/yalian-git/osx/osx_admin/application/admin/controller/Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-12-19T17:06:50+08:00 ] 127.0.0.1 GET yalian.com:8099/admin/login/index.html
+[运行时间：0.083416s] [吞吐率：11.99req/s] [内存消耗：4,644.84kb] [文件加载：126]
+[ info ] [ LANG ] /Applications/MxSrvs/www/yalian-git/osx/osx_admin/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'stylesheet=; PHPSESSID=tivs35lj45pse3vli0ll9v64l0; admin_mojavi=4befnjtl6j3fatavu62645p670; thinkphp_show_page_trace=0|0',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.16; rv:84.0) Gecko/20100101 Firefox/84.0',
+  'host' => 'yalian.com:8099',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\Login->index[ /Applications/MxSrvs/www/yalian-git/osx/osx_admin/application/admin/controller/Login.php ]
+[ info ] [ VIEW ] /Applications/MxSrvs/www/yalian-git/osx/osx_admin/application/admin/view/login/index.php [ array (
+  0 => 'this_client_ip',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-12-19T17:06:50+08:00 ] 127.0.0.1 GET yalian.com:8099/admin/login/captcha.html
+[运行时间：0.049439s] [吞吐率：20.23req/s] [内存消耗：4,626.01kb] [文件加载：125]
+[ info ] [ LANG ] /Applications/MxSrvs/www/yalian-git/osx/osx_admin/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'cookie' => 'stylesheet=; PHPSESSID=tivs35lj45pse3vli0ll9v64l0; admin_mojavi=4befnjtl6j3fatavu62645p670; thinkphp_show_page_trace=0|0',
+  'referer' => 'http://yalian.com:8099/admin/login/index.html',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'image/webp,*/*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.16; rv:84.0) Gecko/20100101 Firefox/84.0',
+  'host' => 'yalian.com:8099',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\Login->captcha[ /Applications/MxSrvs/www/yalian-git/osx/osx_admin/application/admin/controller/Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-12-19T17:06:50+08:00 ] 127.0.0.1 GET yalian.com:8099/admin/login/path/to/vue.min.js
+[运行时间：0.042497s] [吞吐率：23.53req/s] [内存消耗：4,516.37kb] [文件加载：123]
+[ info ] [ LANG ] /Applications/MxSrvs/www/yalian-git/osx/osx_admin/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'path',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'cookie' => 'stylesheet=; PHPSESSID=tivs35lj45pse3vli0ll9v64l0; admin_mojavi=4befnjtl6j3fatavu62645p670; thinkphp_show_page_trace=0|0',
+  'referer' => 'http://yalian.com:8099/admin/login/index.html',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.16; rv:84.0) Gecko/20100101 Firefox/84.0',
+  'host' => 'yalian.com:8099',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'to' => 'vue.min.js',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\SystemBasic->_empty[  ]
+[ info ] [ VIEW ] /Applications/MxSrvs/www/yalian-git/osx/osx_admin/application/admin/view/public/404.php [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-12-19T17:06:50+08:00 ] 127.0.0.1 GET yalian.com:8099/admin/login/path/to/dist/vue-awesome-swiper.js
+[运行时间：0.043092s] [吞吐率：23.21req/s] [内存消耗：4,516.37kb] [文件加载：123]
+[ info ] [ LANG ] /Applications/MxSrvs/www/yalian-git/osx/osx_admin/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'path',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'cookie' => 'stylesheet=; PHPSESSID=tivs35lj45pse3vli0ll9v64l0; admin_mojavi=4befnjtl6j3fatavu62645p670; thinkphp_show_page_trace=0|0',
+  'referer' => 'http://yalian.com:8099/admin/login/index.html',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.16; rv:84.0) Gecko/20100101 Firefox/84.0',
+  'host' => 'yalian.com:8099',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'to' => 'dist',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\SystemBasic->_empty[  ]
+[ info ] [ VIEW ] /Applications/MxSrvs/www/yalian-git/osx/osx_admin/application/admin/view/public/404.php [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-12-19T17:06:50+08:00 ] 127.0.0.1 GET yalian.com:8099/admin/login/path/to/swiper.js
+[运行时间：0.044789s] [吞吐率：22.33req/s] [内存消耗：4,516.37kb] [文件加载：123]
+[ info ] [ LANG ] /Applications/MxSrvs/www/yalian-git/osx/osx_admin/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'path',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'cookie' => 'stylesheet=; PHPSESSID=tivs35lj45pse3vli0ll9v64l0; admin_mojavi=4befnjtl6j3fatavu62645p670; thinkphp_show_page_trace=0|0',
+  'referer' => 'http://yalian.com:8099/admin/login/index.html',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.16; rv:84.0) Gecko/20100101 Firefox/84.0',
+  'host' => 'yalian.com:8099',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'to' => 'swiper.js',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\SystemBasic->_empty[  ]
+[ info ] [ VIEW ] /Applications/MxSrvs/www/yalian-git/osx/osx_admin/application/admin/view/public/404.php [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-12-19T17:06:52+08:00 ] 127.0.0.1 GET yalian.com:8099/public/system/frame/css/bootstrap.min.css.map
+[运行时间：0.027165s] [吞吐率：36.81req/s] [内存消耗：2,225.34kb] [文件加载：98]
+[ info ] [ LANG ] /Applications/MxSrvs/www/yalian-git/osx/osx_admin/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'system',
+    2 => 'frame',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'cookie' => 'stylesheet=; PHPSESSID=tivs35lj45pse3vli0ll9v64l0; admin_mojavi=4befnjtl6j3fatavu62645p670; thinkphp_show_page_trace=0|0',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.16; rv:84.0) Gecko/20100101 Firefox/84.0',
+  'host' => 'yalian.com:8099',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'css' => 'bootstrap.min.css.map',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-12-19T17:06:59+08:00 ] 127.0.0.1 POST yalian.com:8099/admin/login/verify.html
+[运行时间：0.045325s] [吞吐率：22.06req/s] [内存消耗：4,734.84kb] [文件加载：127]
+[ info ] [ LANG ] /Applications/MxSrvs/www/yalian-git/osx/osx_admin/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'verify',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'stylesheet=; PHPSESSID=tivs35lj45pse3vli0ll9v64l0; admin_mojavi=4befnjtl6j3fatavu62645p670; thinkphp_show_page_trace=0|0',
+  'referer' => 'http://yalian.com:8099/admin/login/index.html',
+  'connection' => 'keep-alive',
+  'origin' => 'http://yalian.com:8099',
+  'content-length' => '83',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.16; rv:84.0) Gecko/20100101 Firefox/84.0',
+  'host' => 'yalian.com:8099',
+)
+[ info ] [ PARAM ] array (
+  'account' => '07pbuHoSCzvRmW1zDzC45Q==',
+  'pwd' => 'XhhR/hK2vkLZFqBfW4gVWg==',
+  'verify' => '0732',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\Login->verify[ /Applications/MxSrvs/www/yalian-git/osx/osx_admin/application/admin/controller/Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File

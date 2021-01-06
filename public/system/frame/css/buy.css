@@ -1,0 +1,82 @@
+.buy-message{
+    text-align: center;
+}
+.application-logo{
+    margin: -80px auto;
+    width: 334px;
+    height: 334px;
+}
+.version-message{
+    display: flex;
+    flex-direction: row;
+    font-size: 16px;
+}
+.version-message span{
+    flex: 1;
+}
+.version-message .system-version{
+    text-align: right;
+}
+.version-message .system-number{
+    text-align: left;
+}
+.free-edition{
+    color: #d9001b;
+}
+.authorization-status{
+    margin: 20px 0 30px 0;
+}
+.buy-now{
+    margin: 0 0 30px 0;
+    width: 195px;
+    height: 40px;
+    display: inline-block;
+    border: none;
+    border-radius: 5px;
+    box-shadow: none;
+    color: #fff;
+    background-color: #02a7f0;
+    outline: none;
+}
+.privilege{
+    margin: 0 auto;
+    padding: 5px 10px;
+    width: 300px;
+    /*height: 130px;*/
+    border: 1px solid #d7d7d7;
+    text-align: left;
+}
+.privilege p{
+    padding: 5px 0;
+}
+.attention-me{
+    margin: 60px auto 0 auto;
+    padding: 45px 30px;
+    width: 800px;
+    background-color: #f7f8fa;
+}
+.attention-me .attention-qrcode{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.attention-me .attention-qrcode .each-qrcode{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.attention-me .attention-qrcode .each-qrcode .qrcode-description{
+    padding: 0 0 0 20px;
+    text-align: left;
+}
+.each-qrcode .qrcode-description p{
+    margin: 10px 0;
+}
+.each-qrcode .qrcode-description .qrcode-people{
+    font-weight: 800;
+}
+.each-qrcode .qrcode-description .read-color{
+    color: #ff4a4a;
+}

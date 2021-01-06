@@ -1,0 +1,55 @@
+/* +++++++++++++++++++++++++++++++++++++
+ * File Name:
+ * Author:    Julian
+ * Date:      2020-03
+ * For:       后台专栏新增部分样式
+ * Intro:     单独
+++++++++++++++++++++++++++++++++++++++++ */
+
+.added-line{
+    width: 100%;
+    padding: 4px 0 4px 10px;
+    margin-bottom: 5px;
+    background-color: #F9F9F9;
+    border-radius: 5px;
+}
+.added-line i{
+    font-size: 18px;
+    padding-right: 5px;
+}
+.cloud-video-upload{
+    width: 100%;
+    height: 140px;
+    text-align: center;
+    margin-bottom: 25px;
+    background-color: #F9F9F9;
+    border: 1px solid #f1f1f1;
+    border-radius: 5px;
+}
+.cloud-video-upload .upload-tips{
+    width: 100%;
+    height: 24px;
+    line-height: 24px;
+    font-size: 13px;
+    margin-top: 10px;
+}
+.cloud-video-upload span.uploaded-info{
+    width: 100%;
+    height: 24px;
+    line-height: 24px;
+    font-size: 13px;
+    margin-top: 10px;
+}
+span.uploaded-info .tit{
+    padding-right: 5px;
+}
+span.uploaded-info .info{
+    padding-right: 10px;
+}
+span.uploaded-info .in-delete{
+    padding-left: 10px;
+}
+.cloud-video-upload .button-box{
+    width: 100%;
+    margin-top: 20px;
+}
